@@ -28,14 +28,8 @@
   user-select: none;
 }
 
-.select-row div:hover {
-  background: #fff3e0;
-}
-
 .select-group .selected {
   background: orange;
-  color: white;
-  font-weight: bold;
 }
 
 .select-row div[style*="display: none"] {
